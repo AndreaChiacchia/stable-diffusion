@@ -21,3 +21,4 @@ ldm/modules/distributions/__pycache__/__init__.cpython-38.pyc
 ldm/modules/distributions/__pycache__/distributions.cpython-38.pyc
 ldm/modules/encoders/__pycache__/__init__.cpython-38.pyc
 ldm/modules/encoders/__pycache__/modules.cpython-38.pyc
+outputs/
